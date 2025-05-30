@@ -1,0 +1,6 @@
+UniProt_ID,Amino_acid_position,Reference_Position,Heatmap_Position,Mutation,WT_Kinase,Mut_Kinase,Distance,Type
+P00441,103,106,4,Ser/Leu,TGFBR1,TGFBR1,0.0,Pathogenic
+P29401,283,280,10,Lys/Met,BUB1,CDK2,10.7065,Benign
+Q8IYW5,170,174,3,Glu/Lys,CK2A2,CK2A1,0.5084,Benign
+P07954,366,366,7,Ser/Asn,TLK2,TLK2,0.0,Pathogenic
+P40337,84,80,11,Val/Met,ERK7,CDK17,10.7066,Pathogenic
